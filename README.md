@@ -77,6 +77,9 @@ For executing the application below steps needs to be followed:
 8. Run the app: npm start
 
 ## Scripts for execution of the app
+### `npm install`
+Install all the dependency modules.
+
 ### `npm start`
 
 Runs your app in development mode.
